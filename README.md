@@ -1,3 +1,10 @@
+
+This fork ports the blinkstick firmware to the AdaFruit Gemma board.
+
+
+Original README:
+----------------
+
 BlinkStick Firmware
 ===================
 
